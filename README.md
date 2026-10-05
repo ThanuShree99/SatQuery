@@ -2,7 +2,9 @@
 
 **An Interactive Vision-Language Assistant for Multimodal Remote Sensing Image Analysis through Text Queries**
 
-Built for **Smart India Hackathon 2026** — Problem Statement **SIH26167** · Theme: **Space Technology** · Category: **Software**
+Built for **Smart India Hackathon 2026** — Problem Statement **SIH26167** · 
+Theme: **Space Technology** · 
+Category: **Software**
 
 🔗 **Live App:** [satquery-nu.vercel.app](https://satquery-nu.vercel.app/)
 
